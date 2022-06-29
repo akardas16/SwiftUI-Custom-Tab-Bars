@@ -1,4 +1,8 @@
 # SwiftUI-Custom-Tab-Bars
+
+
+https://user-images.githubusercontent.com/28716129/176546788-3809568f-9b2e-4f9b-8758-1cf6bc212745.mov
+
 # Usage
 Add CustomTabBar files into your project and call it like
 
@@ -20,7 +24,3 @@ Add CustomTabBar files into your project and call it like
      }
      
 You can custumize tabItems title, image name and color
-
-
-https://user-images.githubusercontent.com/28716129/176546788-3809568f-9b2e-4f9b-8758-1cf6bc212745.mov
-
